@@ -1,7 +1,7 @@
 # ☀️ Solar Power Generation Prediction
 
-## 🌞 Solar Power Prediction Interface
-![Solar UI](assets/images/solar-ui.png)
+Interfce --
+<img width="2592" height="1628" alt="solar-ui" src="https://github.com/user-attachments/assets/xxxxx-xxxx-xxxx-xxxx" />
 
 ## 📌 Project Overview
 This project focuses on predicting **solar power generation** using historical and environmental data. Accurate solar power forecasting is critical for **energy grid management, load balancing, and renewable energy planning**. The model leverages machine learning regression techniques to estimate power output based on meteorological features.
