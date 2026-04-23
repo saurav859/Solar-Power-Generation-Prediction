@@ -1,7 +1,8 @@
 # ☀️ Solar Power Generation Prediction
 
 Interfce --
-![Uploading ChatGPT Image Apr 23, 2026, 05_49_20 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 05_49_20 PM" src="https://github.com/user-attachments/assets/5f8d7bea-2015-4ca6-8690-9b170539902c" />
+
 
 
 ## 📌 Project Overview
